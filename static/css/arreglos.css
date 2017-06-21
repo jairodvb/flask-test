@@ -1,0 +1,15 @@
+header
+{
+  background-image: url("http://www.hostingydominio.cl/wp-content/uploads/2015/07/proveedor-de-servidores-vps.jpg")
+}
+
+
+#form
+{
+
+    background: -webkit-linear-gradient(#456ed6,#fdc539); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#456ed6,#fdc539); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#456ed6,#fdc539); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#456ed6,#fdc539); /* Standard syntax */
+}
+
